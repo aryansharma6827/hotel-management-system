@@ -1,0 +1,6 @@
+Earning from Table 1:110
+Earning from Table 2:95
+Earning from Table 2:95
+Total Earnings of Hotel:  300
+Total Wages of Waiters:  120
+Total Profit:  180
